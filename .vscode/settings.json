@@ -1,0 +1,7 @@
+{"editor.fontSize": 14, // see note #1    
+    "editor.lineHeight": 28, // see note #2
+    "editor.wordWrap": "on", // #2
+    "workbench.editor.showTabs": "off" // #3
+    "editor.minimap.enabled": true, // #4
+    "editor.minimap.renderCharacters": true
+}
